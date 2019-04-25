@@ -1,0 +1,21 @@
+.block{
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: #EBECED;
+	margin: 20px;
+	padding: 20px;
+	min-height: 100px;
+}
+
+.element{
+	background-color: #4C586F;
+	color: white;
+	border-radius: 10px;
+	border: 2px solid black;
+	margin: 20px auto;
+	height: 60px;
+	max-width: 200px;
+	text-align: center;
+	padding: 15px;
+    font-size: 20px;
+}
